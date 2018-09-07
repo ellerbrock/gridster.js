@@ -31,7 +31,7 @@
     "grunt-contrib-jshint": "~1.0.0",
     "grunt-contrib-concat": "~1.0.1",
     "grunt-contrib-watch": "~1.0.0",
-    "grunt-contrib-cssmin": "~2.0.0",
+    "grunt-contrib-cssmin": "~3.0.0",
     "grunt-contrib-yuidoc": "~1.0.0",
     "bower": "~1.8.0",
     "qunitjs": "~2.1.0",
